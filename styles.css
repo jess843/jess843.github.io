@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
 @font-face {
     font-family: 'eric';
     src: url("fonts/eric.eot");
@@ -304,31 +306,31 @@ ul.links li a:active {
 }
 
 .icon-eric:before {
-    content: "\e600"
+    /*content: "\e600"*/
 }
 
 .icon-linkedin:before {
-    content: "\e601"
+    /*content: "\e601"*/
 }
 
 .icon-github:before {
-    content: "\e602"
+    /*content: "\e602"*/
 }
 
 .icon-twitter:before {
-    content: "\e603"
+    /*content: "\e603"*/
 }
 
 .icon-instagram:before {
-    content: "\e604"
+    /*content: "\e604"*/
 }
 
 .icon-facebook:before {
-    content: "\e605"
+    /*content: "\e605"*/
 }
 
 .icon-envelope:before {
-    content: "\e606"
+    /*content: "\e606"*/
 }
 
 .icon-arrow-down:before {
