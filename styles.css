@@ -520,8 +520,9 @@ body.landing #wrapper header h1 {
 }
 
 body.landing #wrapper header h1:before {
-    content: "î˜€";
+    content: "...";
     font-family: 'eric';
+    /*font-family: 'Inconsolata', 'Courier New', fixed;*/
     speak: none;
     font-style: normal;
     font-weight: normal;
