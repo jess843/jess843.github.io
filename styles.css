@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
-
+/*@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
+*/
 @font-face {
     font-family: 'eric';
     src: url("fonts/eric.eot");
@@ -410,6 +410,7 @@ body.landing:before {
     animation-fill-mode: forwards;
     opacity: 0;
     top: 0;
+    /*background: linear-gradient(316deg, #2ad580, #2a2ad5, #1d1d95, #802ad5, #d52a2a);*/
     background: linear-gradient(316deg, #2ad580, #2a2ad5, #1d1d95, #802ad5, #d52a2a);
     background-size: 600% 600%;
     display: flex;
@@ -676,10 +677,10 @@ body.landing #footer {
     -webkit-animation: z-in 3s;
     -ms-animation: z-in 3s;
     animation: z-in 3s;
-    -moz-animation-delay: 2s;
-    -webkit-animation-delay: 2s;
-    -ms-animation-delay: 2s;
-    animation-delay: 2s;
+    -moz-animation-delay: .9s;
+    -webkit-animation-delay: .9s;
+    -ms-animation-delay: .9s;
+    animation-delay: .9s;
     -moz-animation-fill-mode: forwards;
     -webkit-animation-fill-mode: forwards;
     -ms-animation-fill-mode: forwards;
@@ -697,10 +698,10 @@ body.landing #footer-portfolio {
     -webkit-animation: z-in 3s;
     -ms-animation: z-in 3s;
     animation: z-in 3s;
-    -moz-animation-delay: 2s;
-    -webkit-animation-delay: 2s;
-    -ms-animation-delay: 2s;
-    animation-delay: 2s;
+    -moz-animation-delay: .9s;
+    -webkit-animation-delay: .9s;
+    -ms-animation-delay: .9s;
+    animation-delay: .9s;
     -moz-animation-fill-mode: forwards;
     -webkit-animation-fill-mode: forwards;
     -ms-animation-fill-mode: forwards;
