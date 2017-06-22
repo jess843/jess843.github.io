@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Serif+Pro");
 
 @font-face {
     font-family: 'eric';
@@ -521,8 +522,9 @@ body.landing #wrapper header h1 {
 }
 
 body.landing #wrapper header h1:before {
-    content: "...";
-    font-family: 'eric';
+    content: "Jess DeJong";
+    font-family: 'Source Serif Pro', serif;
+    font-size: 50px;
     /*font-family: 'Inconsolata', 'Courier New', fixed;*/
     speak: none;
     font-style: normal;
