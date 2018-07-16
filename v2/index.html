@@ -3,62 +3,47 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <meta charset="UTF-8">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, inital-scale=1.0, maximum-scale=1, user-scalable=no">
+        <meta name="description" content="Jess DeJong personal website">
+        <meta name="author" content="Jess DeJong">
 
-        <!-- Latest compiled and minified JavaScript -->
+        <!-- Bootstrap CSS and Javascript-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-        <!-- personal css -->
-        <link rel="stylesheet" href="style.css">
+
+        <style>
+            .header {
+                overflow: hidden;
+                padding: 20px 10px;
+            }
+
+            .header a {
+                float: left;
+                color: balck;
+                text-align: center;
+                padding: 12px;
+                text-decoration: none;
+                font-size: 18px;
+                line-height:25px;
+                border-radius: 4px;
+            }
+        </style>
+
     </head>
     <body>
+        <div class="container">
 
+            <div class="header">
+                <a href="#">Jess DeJong</a>
+                <a href="#">About</a>
+                <a href="#">Projects</a>
+                <a href="#">Resume</a>
+            </div>
 
-        <h3>Nth Fibonacci Number: </h3>
-        <h1 id="fib_N"></h1>
-
-        <div id="number_holder"></div>
-
-    <script>
-        "use strict";
-
-        let N = 20;
-        let N_header = document.getElementById("fib_N");
-        N_header.appendChild(document.createTextNode(N));
-
-        let fibs = new Array();
-        fibs[0] = 1;
-        fibs[1] = 1;
-        
-        if (N == 1 || N == 0) {
-            let num = document.createElement("h4");
-            let text = document.createTextNode(fibs[N]);
-            num.appendChild(text);
-            document.body.appendChild(num);
-        }
-        else {
-            let num = document.createElement("h4");
-            let text = document.createTextNode(1);
-            let num2 = document.createElement("h4");
-            let text2 = document.createTextNode(1);
-            num.appendChild(text);
-            num2.appendChild(text2);
-            document.body.appendChild(num);
-            document.body.appendChild(num2);
-
-            let fib_index = 2;
-            while (fib_index < N) {
-                fibs[fib_index] = fibs[fib_index-1] + fibs[fib_index-2];
-                fib_index++;
-
-                let num = document.createElement("h4");
-                let text = document.createTextNode(""+fibs[fib_index-1]);
-                num.appendChild(text);
-                document.body.appendChild(num);
-            }
-        }
-    </script>
+        </div>
 
     </body>
 </html>
