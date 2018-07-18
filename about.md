@@ -6,27 +6,12 @@ title: About
 ![Here is a picture of me.](/public/jess_picture.jpeg)
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi! That's me above. I'm currently a high school student attending Richardson High School. I'll be graduating in June of 2019.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am interested in Computer Science, trending technologies, and learning new things. Outside of school, I enjoy participating in hackathons, programming contests, and Capture The Flags.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+During the summer of 2018 I interned at [State Farm](https://www.statefarm.com/) in the Info security department. I worked on the State Farm CTF, helping replenish the challenge set.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for visiting my website! If you want, check out my github: [@jessdejong](https://github.com/jessdejong).
