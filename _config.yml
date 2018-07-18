@@ -30,3 +30,9 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+# Pages
+pages_list:
+    About: '/about'
+    Archive: '/archive'
+    Feed: '/atom.xml'

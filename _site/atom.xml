@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
+ <title>Jess DeJong</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-18T13:12:26-05:00</updated>
+ <updated>2018-07-18T13:29:09-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Jess DeJong</name>
+   <email>jessdejong843@gmail.com</email>
  </author>
 
  
@@ -31,7 +31,7 @@
   &lt;li&gt;&lt;a href=&quot;http://enfield.getpoole.com&quot;&gt;Enfield&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/jessdejong/jessdejong.github.io&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;whats-included&quot;&gt;What’s included&lt;/h3&gt;
 
@@ -54,7 +54,7 @@
 
 &lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
 
-&lt;p&gt;These themes are developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;p&gt;These themes are developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/jessdejong/jessdejong.github.io&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 
 &lt;p&gt;Thanks!&lt;/p&gt;
 </content>
