@@ -11,6 +11,7 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>-->
+        
         <h3 class="masthead-title">
         <a href="/" title="Home">{{ site.title }}</a>
 
@@ -18,8 +19,14 @@
           &nbsp;&nbsp;&nbsp;
           <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
         {% endfor %}
+
+        <a href="https://github.com/jessdejong" class="icon icon-github" alt="github link">
+          <i class="fa fa-lg fa-github"></i>
+        </a>
+
         </h3>
-      </header>
+
+        </header>
 
       <main>
         {{ content }}
