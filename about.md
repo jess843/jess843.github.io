@@ -16,3 +16,5 @@ My most notable hackathon project was [Simply Aware](https://github.com/Sinister
 During the summer of 2018 I interned at [State Farm](https://www.statefarm.com/) in the Info security department. I worked on the State Farm CTF, helping replenish the challenge set.
 
 Thanks for visiting my website! If you want, check out my github: [@jessdejong](https://github.com/jessdejong). You can email me at <jessdejong843@gmail.com>.
+
+This website was made with [Jekyll](https://github.com/jekyll/jekyll) and [Poole](https://github.com/poole/poole).
