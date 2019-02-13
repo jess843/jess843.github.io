@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-![Here is a picture of me.](/public/jess_picture.jpeg)
-
 <p class="message">
   Hi! I'm currently a high school student attending Richardson High School. I'll be graduating in June of 2019.
 </p>
 
-I am interested in Computer Science, trending technologies, and learning new things. At RHS, I am part of the Computer Science, Math and Science, Cybersecurity, and Speech and Debate clubs. Outside of school, I enjoy participating in hackathons, programming contests, and Capture The Flags.
+I am interested in Computer Science and Math. At RHS, I am part of the Computer Science, Math and Science, Cybersecurity, and Speech and Debate clubs. Outside of school, I enjoy participating in hackathons, programming contests, and Capture The Flags.
 
 My most notable hackathon project was [Simply Aware](https://github.com/Sinister-Paradox/EARTHACKS) for HackDFW/EarthHacks, an app that mapped the spread of diseases.
 
