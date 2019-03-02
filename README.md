@@ -1,6 +1,6 @@
 # jessdejong.github.io / jessdejong.me
 
-My personal website, made with Jekyll and Poole. Inspired by Joshua Lande's personal website: http://joshualande.com
+An idea: use http://artii.herokuapp.com/ to generate a different ascii text each reload.
 
 ## License
 

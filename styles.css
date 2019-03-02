@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    background-color: orange;
+    padding: 30px;
+    margin: 100px;
+}
